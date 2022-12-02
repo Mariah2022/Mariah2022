@@ -1,0 +1,6 @@
+row 1 Hello!
+row 2 merge....
+row 3 master
+row 4 BLAbLAbLA11111 very important change for me :)
+row 5 local
+row 6 :)
